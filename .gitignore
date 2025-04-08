@@ -1,4 +1,4 @@
 mkosi.local.conf
 mkosi.local
 
-output/*
+mkosi.output/*
